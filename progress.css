@@ -1,0 +1,22 @@
+.progressitem {
+  width: 140px;
+  height: 8px;
+  margin: auto;
+  background-color: #eee;
+  border: 1px solid white;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+      -ms-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-border-radius: 15px;
+     -moz-border-radius: 15px;  
+}
+
+.gifsolution {
+  background-image: url(progress-bar.png);
+  background-position: -1px 0;
+  background-repeat: repeat-y;
+  margin: auto;
+  background-size: 0%;
+  overflow: hidden;
+}
